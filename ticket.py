@@ -34,7 +34,7 @@ def main():
     print("Ticket Prices:", ticket_prices)
     print("Ticket Quantities:", ticket_quantities)
     print("Total Tickets Booked:", total_tickets)
-    print("Total Bill Amount: ₹", total_bill)
+    print("Total Bill Amount: ", total_bill)
     print("Booking Category:", category)
 if __name__ == "__main__":
     main()
